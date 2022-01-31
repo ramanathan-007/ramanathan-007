@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ramanathan-007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ramanathan A.
+- 👀 I’m interested in Machine Learning, Data Science and Web Dev.
+- 🌱 I’m currently doing CSE with specialization in Data Science.
+- 💞️ I’m looking to collaborate on any kind of projects.
+- 📫 LinkedIn: https://www.linkedin.com/in/ramanathan-annamalai-61049b211/
 
 <!---
 ramanathan-007/ramanathan-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
