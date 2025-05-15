@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramanathan A.
 - 👀 I’m interested in Machine Learning, Data Science and Web Dev.
-- 🌱 I’m currently doing CSE with specialization in Data Science in VIT, Vellore.
+- 🌱 I’m currently working in GAP Inc as SDE.
 - 💞️ I’m looking to collaborate on any kind of projects.
 - 📫 LinkedIn: https://www.linkedin.com/in/ramanathan-annamalai-61049b211/
 
